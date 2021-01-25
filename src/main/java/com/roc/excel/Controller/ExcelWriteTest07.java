@@ -20,7 +20,7 @@ import java.util.Date;
  */
 public class ExcelWriteTest07 {
 
-    String Path = "D:\\MyDemos\\RD\\java\\demos\\excelStudy";
+    String Path = "excelStudy";
 
     @Test
     public void testWrite07() throws IOException {

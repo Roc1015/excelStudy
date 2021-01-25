@@ -20,7 +20,7 @@ import java.io.IOException;
  */
 public class BigDataWrite07 {
 
-    String Path = "D:\\MyDemos\\RD\\java\\demos\\excelStudy";
+    String Path = "excelStudy";
 
     @Test
     public void BigDataWriteTest07() throws IOException {

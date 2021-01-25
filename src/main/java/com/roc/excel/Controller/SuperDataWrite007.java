@@ -23,7 +23,7 @@ import java.io.IOException;
  */
 public class SuperDataWrite007 {
 
-    String Path = "D:\\MyDemos\\RD\\java\\demos\\excelStudy";
+    String Path = "excelStudy";
 
     @Test
     public void SuperDataWrite007() throws IOException {
